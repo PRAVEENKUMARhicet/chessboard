@@ -1,0 +1,15 @@
+img{
+    height: 30vh;
+    width:20%;
+    display: inline-flex;
+}
+
+body{
+    margin-left: 500px;
+    background-color: rgba(0,0,0,.5);
+    /* margin-top: 40px; */
+}
+
+h2{
+    margin-left: 230px;
+}

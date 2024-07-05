@@ -1,0 +1,32 @@
+body{
+    margin:0;
+}
+
+table{
+    margin-left: 650px;
+    margin-top: 200px;
+    border-collapse: collapse;
+}
+
+table td{
+    border: 2px solid black;
+}
+
+td{
+    width:30px;
+    height: 30px;
+}
+
+.one td:nth-child(even){
+    background-color: black;
+}
+
+.two td:nth-child(odd){
+    background-color: black;
+}
+
+h1{
+    margin-top: 50px;
+    margin-left: 50px;
+
+}

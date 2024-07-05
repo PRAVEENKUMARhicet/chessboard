@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    background-color: blanchedalmond;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: 500px;
+    margin-top: 200px;
+    width: 30%;
+}
+
+td,tr{
+    border: 3px solid black;
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+
+.lunch{
+    text-align: center;
+}
+
+#Hours{
+    padding: 0px 50px;
+}
+
+td:hover{
+    background-color: rgb(48, 48, 160);
+    color: antiquewhite;
+}
